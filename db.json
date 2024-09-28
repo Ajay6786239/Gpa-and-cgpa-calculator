@@ -1,0 +1,434 @@
+{
+  "CSE": {
+      "1": [
+          {"subject": "Professional English 1", "code": "HS3152", "credit": 3},
+          {"subject": "Matrices and Calculus", "code": "MA3151", "credit": 4},
+          {"subject": "Engineering Physics", "code": "PH3151", "credit": 3},
+          {"subject": "Engineering Chemistry", "code": "CY3151", "credit": 3},
+          {"subject": "Problem Solving and Python Programming", "code": "GE3151", "credit": 3},
+          {"subject": "Heritage of Tamils", "code": "GE3152", "credit": 1},
+          {"subject": "Problem Solving and Python Programming Laboratory", "code": "GE3171", "credit": 2},
+          {"subject": "Physics and Chemistry Laboratory", "code": "BS3171", "credit": 2},
+          {"subject": "English laboratory", "code": "GE3172", "credit": 1}
+      ],
+      "2": [
+        {"subject": "Professional English 2", "code": "HS3252 ", "credit": 2},
+        {"subject": "Statistics and Numerical Methods ", "code": "MA3251", "credit": 4},
+        {"subject": "Physics for Information Science ", "code": "PH3256", "credit": 3},
+        {"subject": "Basic Electrical and Electronics Engineering ", "code": "BE3251 ", "credit": 3},
+        {"subject": "Engineering Graphics", "code": "GE3251", "credit": 4},
+        {"subject": "Programming in C ", "code": ". CS3251", "credit": 3},
+        {"subject": "தமிழரும் ததொழில்நுட்பமும்/Tamils and Technology", "code": "GE3252", "credit": 1},
+        {"subject": "Engineering Practices Laboratory", "code": "GE3271", "credit": 2},
+        {"subject": "Programming in C Laboratory", "code": "CS3271", "credit": 2},
+        {"subject": "Communication Laboratory / Foreign Language", "code": "GE3272", "credit": 2}
+      ],
+
+      "3": [
+        {"subject": "Discrete Mathematics", "code": "MA3354 ", "credit": 4},
+        {"subject": "Digital Principles and Computer Organization ", "code": "CS3351", "credit": 4},
+        {"subject": "Foundations of Data Science", "code": "CS3352", "credit": 3},
+        {"subject": "Data Structures ", "code": "CS3301 ", "credit": 3},
+        {"subject": "Object Oriented Programming ", "code": "CS3391 ", "credit": 3},
+        {"subject": "Data Structures Laboratory ", "code": "CS3311", "credit": 1.5},
+        {"subject": "Object Oriented Programming Laboratory", "code": "CS3381 ", "credit": 1.5},
+        {"subject": "Data Science Laboratory", "code": "CS3361 ", "credit": 2},
+        {"subject": "Professional Development", "code": "GE3361", "credit": 1}
+       
+      ],
+      "4": [
+        {"subject": "Theory of Computation", "code": "CS3452", "credit": 3},
+        {"subject": " Artificial Intelligence and Machine Learning ", "code": "CS3491 ", "credit": 4},
+        {"subject": "Database Management Systems ", "code": "CS3492 ", "credit": 3},
+        {"subject": "Algorithms", "code": "CS3401 ", "credit": 4},
+        {"subject": "Introduction to Operating Systems", "code": "CS3451", "credit": 3},
+        {"subject": "Environmental Sciences and Sustainability ", "code": "GE3451 ", "credit": 2},
+        {"subject": "Operating Systems Laboratory ", "code": "CS3461", "credit": 1.5},
+        {"subject": "Database Management Systems Laboratory", "code": "CS3481", "credit": 1.5}
+        
+      ],
+      "5": [
+        {"subject": "Computer Networks", "code": "CS3591 ", "credit": 4},
+        {"subject": "Compiler Design", "code": "CS3501", "credit": 4},
+        {"subject": "Cryptography and Cyber Security", "code": "CB3491", "credit": 3},
+        {"subject": "Distributed Computing ", "code": "CS3551", "credit": 3},
+        {"subject": "Professional Elective I", "code": "-", "credit": 3},
+        {"subject": "Professional Elective II ", "code": "-", "credit": 3},
+        {"subject": "Mandatory Course-I ", "code": "-", "credit": 0}
+       
+      ],
+      "6": [
+        {"subject": "Object Oriented Software Engineering ", "code": "CCS356 ", "credit": 4},
+        {"subject": "Embedded Systems and IoT ", "code": "CS3691", "credit": 4},
+        {"subject": "Open Elective – I", "code": "-", "credit": 3},
+        {"subject": "Professional Elective III ", "code": "-", "credit": 3},
+        {"subject": "Professional Elective IV", "code": "-", "credit": 3},
+        {"subject": "Professional Elective V", "code": "-", "credit": 3},
+        {"subject": "Professional Elective VI", "code": "-", "credit": 3},
+        {"subject": "Mandatory Course-II ", "code": "-", "credit": 0}
+       
+      ],
+      "7": [
+        {"subject": "Human Values and Ethics", "code": "GE3791", "credit": 2},
+        {"subject": "Elective - Management", "code": "-", "credit": 3},
+        {"subject": "Open Elective - II", "code": "-", "credit": 3},
+        {"subject": "Open Elective – III", "code": "-", "credit": 3},
+        {"subject": "Open Elective – IV", "code": "-", "credit": 3},
+        {"subject": "Summer internship", "code": "CS3711", "credit": 2}
+
+        
+      ],
+      "8": [
+        {"subject": "Project Work/Internship ", "code": "CS3811", "credit": 10}
+        
+      ]
+  },
+  "Civil": {
+      "1": [
+          {"subject": "Professional English 1", "code": "HS3152", "credit": 3},
+          {"subject": "Matrices and Calculus", "code": "MA3151", "credit": 4},
+          {"subject": "Engineering Physics", "code": "PH3151", "credit": 3},
+          {"subject": "Engineering Chemistry", "code": "CY3151", "credit": 3},
+          {"subject": "Problem Solving and Python Programming", "code": "GE3151", "credit": 3},
+          {"subject": "Heritage of Tamils", "code": "GE3152", "credit": 1},
+          {"subject": "Problem Solving and Python Programming Laboratory", "code": "GE3171", "credit": 2},
+          {"subject": "Physics and Chemistry Laboratory", "code": "BS3171", "credit": 2},
+          {"subject": "English laboratory", "code": "GE3172", "credit": 1}
+      ],
+      "2": [
+        {"subject": "Professional English - II ", "code": "HS3252", "credit": 2},
+        {"subject": "Statistics and Numerical Methods", "code": "MA3251 ", "credit": 4},
+        {"subject": "Physics for Civil Engineering ", "code": "PH3201 ", "credit": 3},
+        {"subject": "Basic Electrical, Electronics and Instrumentation Engineering", "code": "BE3252", "credit": 3},
+        {"subject": "Engineering Graphics ", "code": "GE3251", "credit": 4},
+        {"subject": "தமிழரும் ததொழில்நுட்பமும் / Tamils and Technology ", "code": "GE3252 ", "credit": 1},
+        {"subject": "Engineering Practices Laboratory ", "code": "GE3271 ", "credit": 2},
+        {"subject": "Basic Electrical, Electronics and Instrumentation Engineering Laboratory", "code": "BE3272 ", "credit": 2},
+        {"subject": "Communication Laboratory / Foreign Language ", "code": "GE3272 ", "credit": 2}
+       
+      ],
+      "3": [
+        {"subject": "Transforms and Partial Differential Equations", "code": "MA3351", "credit": 4},
+        {"subject": "Engineering Mechanics", "code": "ME3351", "credit": 3},
+        {"subject": "Fluid Mechanics", "code": "CE3301 ", "credit": 3},
+        {"subject": "Construction Materials and Technology", "code": "CE3302 ", "credit": 3},
+        {"subject": "Water Supply and Wastewater Engineering", "code": "CE3303", "credit": 4},
+        {"subject": "Surveying and Levelling ", "code": "CE3351", "credit": 3},
+        {"subject": "Surveying and Levelling Laboratory", "code": "CE3361", "credit": 1.5},
+        {"subject": "Water and Wastewater Analysis Laboratory", "code": "CE3311 ", "credit": 1.5},
+        {"subject": "Professional Development", "code": " GE3361", "credit": 1}
+       
+      ],
+      "4": [
+        {"subject": "Applied Hydraulics Engineering", "code": "CE3401", "credit": 4},
+        {"subject": "Strength of Materials ", "code": "CE3402", "credit": 3},
+        {"subject": "Concrete Technology", "code": "CE3403 ", "credit": 3},
+        {"subject": "Soil Mechanics ", "code": "CE3404", "credit": 3},
+        {"subject": "Highway and Railway Engineering ", "code": "CE3405 ", "credit": 3},
+        {"subject": "Environmental Sciences and Sustainability", "code": "GE3451", "credit": 2},
+        {"subject": "Hydraulic Engineering Laboratory", "code": "CE3411 ", "credit": 1.5},
+        {"subject": "Materials Testing Laboratory", "code": "CE3412 ", "credit": 2},
+        {"subject": "Soil Mechanics Laboratory ", "code": "CE3413", "credit": 1.5}
+        
+      ],
+      "5": [
+        {"subject": "Design of Reinforced Concrete StructuralElements", "code": "CE3501 ", "credit": 3},
+        {"subject": "Structural Analysis I", "code": "CE3502 ", "credit": 3},
+        {"subject": "Foundation Engineering ", "code": "CE3503", "credit": 3},
+        {"subject": "Professional Elective I ", "code": "-", "credit": 3},
+        {"subject": "Professional Elective II ", "code": "-", "credit": 3},
+        {"subject": "Professional Elective III ", "code": "-", "credit": 3},
+        {"subject": "Mandatory Course-I", "code": "-", "credit": 0},
+        {"subject": "Highway Engineering Laboratory", "code": "CE3511 ", "credit": 2},
+        {"subject": "Survey Camp (2 weeks)", "code": "CE3512 ", "credit": 1}
+       
+      ],
+      "6": [
+        {"subject": "Design of Steel Structural Elements ", "code": "CE3601", "credit": 3},
+        {"subject": "Structural Analysis II", "code": ". CE3602 ", "credit": 3},
+        {"subject": "Engineering Geology", "code": "AG3601 ", "credit": 3},
+        {"subject": "Professional Elective IV ", "code": "-", "credit": 3},
+        {"subject": "Professional Elective V ", "code": "-", "credit": 3},
+        {"subject": "Professional Elective VI", "code": "-", "credit": 3},
+        {"subject": "Open Elective – I*", "code": "-", "credit": 3},
+        {"subject": "Mandatory Course-II", "code": "-", "credit": 0},
+        {"subject": "Building Drawing and Detailing Laboratory ", "code": "CE3611", "credit": 2}
+        
+      ],
+      "7": [
+        {"subject": "Estimation, Costing and Valuation Engineering ", "code": "CE3701", "credit": 3},
+        {"subject": "Hydrology and Water Resources Engineering", "code": "AI3404 ", "credit": 3},
+        {"subject": "Human Values and Ethics ", "code": "GE3791 ", "credit": 2},
+        {"subject": "Total Quality Management ", "code": "GE3752 ", "credit": 3},
+        {"subject": "Open Elective – II", "code": "-", "credit": 3},
+        {"subject": "Open Elective – III", "code": "-", "credit": 3},
+        {"subject": "Open Elective – IV", "code": "-", "credit": 3}
+       
+      ],
+      "8": [
+        {"subject": "Project Work/Internship", "code": "CE3811", "credit": 10} 
+       
+      ]
+      
+  },
+  "ECE": {
+      "1": [
+          {"subject": "Professional English 1", "code": "HS3152", "credit": 3},
+          {"subject": "Matrices and Calculus", "code": "MA3151", "credit": 4},
+          {"subject": "Engineering Physics", "code": "PH3151", "credit": 3},
+          {"subject": "Engineering Chemistry", "code": "CY3151", "credit": 3},
+          {"subject": "Problem Solving and Python Programming", "code": "GE3151", "credit": 3},
+          {"subject": "Heritage of Tamils", "code": "GE3152", "credit": 1},
+          {"subject": "Problem Solving and Python Programming Laboratory", "code": "GE3171", "credit": 2},
+          {"subject": "Physics and Chemistry Laboratory", "code": "BS3171", "credit": 2},
+          {"subject": "English laboratory", "code": "GE3172", "credit": 1}
+      ],
+      "2": [
+        {"subject": "Professional English - II", "code": "HS3252", "credit": 2},
+        {"subject": "Statistics and Numerical Methods", "code": "MA3251", "credit": 4},
+        {"subject": "Physics for Electronics Engineering", "code": "PH3254", "credit": 3},
+        {"subject": "Electrical and Instrumentation Engineering", "code": "BE3254", "credit": 3},
+        {"subject": "Engineering Graphics", "code": "GE3251", "credit": 4},
+        {"subject": "Circuit Analysis ", "code": "EC3251 ", "credit": 4},
+        {"subject": "தமிழரும் ததொழில்நுட்பமும் /Tamils and Technology", "code": "GE3252 ", "credit": 1},
+        {"subject": "Engineering Practices Laboratory", "code": "GE3271 ", "credit": 2},
+        {"subject": "Circuits Analysis Laboratory ", "code": "EC3271", "credit": 1},
+        {"subject": "Communication Laboratory /Foreign Language", "code": "GE3272", "credit": 2}
+       
+      ],
+      "3": [
+        {"subject": "Random Processes and Linear Algebra", "code": "MA3355 ", "credit": 4},
+        {"subject": "C Programming and Data Structures", "code": "CS3353", "credit": 3},
+        {"subject": "Signals and Systems", "code": "EC3354", "credit": 4},
+        {"subject": "Electronic Devices and Circuits", "code": "EC3353", "credit": 3},
+        {"subject": "Control Systems", "code": "EC3351", "credit": 3},
+        {"subject": "Digital Systems Design ", "code": "EC3352", "credit": 4},
+        {"subject": "Electronic Devices and Circuits Laboratory ", "code": "EC3361", "credit": 1.5},
+        {"subject": "C Programming and Data Structures Laboratory", "code": "CS3362", "credit": 1.5},
+        {"subject": "Professional Development", "code": "GE3361", "credit": 1}
+        
+      ],
+      "4": [
+        {"subject": "Electromagnetic Fields", "code": "EC3452 ", "credit": 3},
+        {"subject": "Networks and Security", "code": "EC3401 ", "credit": 4},
+        {"subject": "Linear Integrated Circuits", "code": "EC3451 ", "credit": 3},
+        {"subject": "Digital Signal Processing ", "code": "EC3492", "credit": 4},
+        {"subject": "Communication Systems ", "code": "EC3491", "credit": 3},
+        {"subject": "Environmental Sciences and Sustainability ", "code": "GE3451", "credit": 2},
+        {"subject": "Communication Systems Laboratory", "code": "EC3461", "credit": 1.5},
+        {"subject": "Linear Integrated Circuits Laboratory", "code": "EC3462", "credit": 1.5}
+        
+      ],
+      "5": [
+        {"subject": "Wireless Communication", "code": "EC3501", "credit": 4},
+        {"subject": "VLSI and Chip Design", "code": "EC3552", "credit": 3},
+        {"subject": "Transmission lines and RF Systems", "code": "EC3551", "credit": 3},
+        {"subject": "Professional Elective I", "code": "-", "credit": 3},
+        {"subject": "Professional Elective II", "code": "-", "credit": 3},
+        {"subject": "Professional Elective III", "code": "-", "credit": 3},
+        {"subject": "Mandatory Course-I", "code": "-", "credit": 0},
+        {"subject": "VLSI Laboratory", "code": "EC3561", "credit": 2}
+       
+      ],
+      "6": [
+        {"subject": "Embedded Systems and IOT Design", "code": "ET3491", "credit": 4},
+        {"subject": "Artificial Intelligence and Machine Learning", "code": "CS3491 ", "credit": 4},
+        {"subject": "Open Elective– I*", "code": "-", "credit": 3},
+        {"subject": "Professional Elective IV ", "code": "-", "credit": 3},
+        {"subject": "Professional Elective V ", "code": "", "credit": 3},
+        {"subject": "Professional Elective VI", "code": "", "credit": 3},
+        {"subject": "Mandatory Course-II &", "code": "", "credit": 0}
+        
+      ],
+      "7": [
+        {"subject": "Human Values and Ethics ", "code": ". GE3791 ", "credit": 2},
+        {"subject": "Elective - Management", "code": "-", "credit": 3},
+        {"subject": "Open Elective – II", "code": "-", "credit": 3},
+        {"subject": "Open Elective – III", "code": "-", "credit": 3},
+        {"subject": "Open Elective – IV", "code": "-", "credit": 3},
+        {"subject": "Summer internship", "code": "EC3711 ", "credit": 2}
+        
+      ],
+      "8": [
+        {"subject": "Project Work / Internship ", "code": "EC3811", "credit": 10}
+       
+      ]
+  },
+  "EEE": {
+      "1": [
+          {"subject": "Professional English 1", "code": "HS3152", "credit": 3},
+          {"subject": "Matrices and Calculus", "code": "MA3151", "credit": 4},
+          {"subject": "Engineering Physics", "code": "PH3151", "credit": 3},
+          {"subject": "Engineering Chemistry", "code": "CY3151", "credit": 3},
+          {"subject": "Problem Solving and Python Programming", "code": "GE3151", "credit": 3},
+          {"subject": "Heritage of Tamils", "code": "GE3152", "credit": 1},
+          {"subject": "Problem Solving and Python Programming Laboratory", "code": "GE3171", "credit": 2},
+          {"subject": "Physics and Chemistry Laboratory", "code": "BS3171", "credit": 2},
+          {"subject": "English laboratory", "code": "GE3172", "credit": 1}
+      ],
+      "2": [
+        {"subject": "Professional English - II ", "code": "HS3252 ", "credit": 2},
+        {"subject": "Statistics and Numerical Methods ", "code": "MA3251 ", "credit": 4},
+        {"subject": "Physics for Electrical Engineering", "code": "PH3202", "credit": 3},
+        {"subject": "Basic Civil and Mechanical Engineering", "code": "BE3255 ", "credit": 3},
+        {"subject": "Engineering Graphics", "code": "GE3251 ", "credit": 4},
+        {"subject": "Electric Circuit Analysis ", "code": "EE3251 ", "credit": 4},
+        {"subject": "த௘ழ௠ம் ெதா௯ல்௎ட்ப௚ம் / Tamils and Technology", "code": "GE3252 ", "credit": 1},
+        {"subject": "Engineering Practices Laboratory", "code": "GE3271 ", "credit": 2},
+        {"subject": "Electric Circuits Laboratory", "code": "EE3271", "credit": 2},
+        {"subject": "Communication Laboratory / Foreign Language", "code": " GE3272 ", "credit": 2}
+       
+      ],
+      "3": [
+        {"subject": "Probability and Complex Functions ", "code": "MA3303", "credit": 4},
+        {"subject": "Electromagnetic Fields", "code": "EE3301 ", "credit": 4},
+        {"subject": "Digital Logic Circuits ", "code": "EE3302 ", "credit": 3},
+        {"subject": "Electron Devices and Circuits", "code": "EC3301 ", "credit": 3},
+        {"subject": "Electrical Machines - I ", "code": "EE3303 ", "credit": 3},
+        {"subject": "C Programming and Data Structures ", "code": "CS3353", "credit": 3},
+        {"subject": "Electronic Devices and Circuits Laboratory ", "code": "EC3311 ", "credit": 1.5},
+        {"subject": "Electrical Machines Laboratory – I ", "code": "EE3311", "credit": 1.5},
+        {"subject": "C Programming and Data Structures Laboratory", "code": "CS3362", "credit": 1.5},
+        {"subject": "Professional Development", "code": "GE3361 ", "credit": 1}
+       
+      ],
+      "4": [
+        {"subject": "Environmental Sciences and Sustainability ", "code": "GE3451 ", "credit": 2},
+        {"subject": "Transmission and Distribution", "code": "EE3401 ", "credit": 3},
+        {"subject": "Linear Integrated Circuits ", "code": "EE3402 ", "credit": 3},
+        {"subject": "Measurements and Instrumentation", "code": "EE3403", "credit": 3},
+        {"subject": "Microprocessor and Microcontroller", "code": "EE3404 ", "credit": 3},
+        {"subject": "Electrical Machines - II ", "code": "EE3405 ", "credit": 3},
+        {"subject": "Electrical Machines Laboratory - II ", "code": "EE3411 ", "credit": 1.5},
+        {"subject": "Linear and Digital Circuits Laboratory", "code": "EE3412", "credit": 1.5},
+        {"subject": "Microprocessor and Microcontroller laboratory", "code": "EE3413", "credit": 1.5}
+
+       
+      ],
+      "5": [
+        {"subject": "Power System Analysis ", "code": "EE3501 ", "credit": 3},
+        {"subject": "Power Electronics ", "code": "EE3591 ", "credit": 3},
+        {"subject": "Control Systems ", "code": "EE3503 ", "credit": 3},
+        {"subject": "Professional Elective I ", "code": "-", "credit": 3},
+        {"subject": "Professional Elective II ", "code": "--", "credit": 3},
+        {"subject": "Professional Elective III ", "code": "", "credit": 3},
+        {"subject": "Mandatory Course-I", "code": "-", "credit": 0},
+        {"subject": "Power Electronics Laboratory", "code": "EE3511 ", "credit": 1.5},
+        {"subject": "Control and Instrumentation Laboratory ", "code": "EE3512", "credit": 2}
+        
+      ],
+      "6": [
+        {"subject": "Protection and Switchgear ", "code": "EE3601 ", "credit": 3},
+        {"subject": "Power System Operation and Control", "code": "EE3602 ", "credit": 3},
+        {"subject": "Open Elective – I*", "code": "-", "credit": 3},
+        {"subject": "Professional Elective IV ", "code": "-", "credit": 3},
+        {"subject": "Professional Elective V", "code": "-", "credit": 3},
+        {"subject": "Professional Elective VI", "code": "-", "credit": 3},
+        {"subject": "Mandatory Course-II&", "code": "-", "credit": 0},
+        {"subject": " Power System Laboratory ", "code": "EE3611 ", "credit": 1.5}
+        
+      ],
+      "7": [
+        {"subject": "High Voltage Engineering", "code": "EE3701 ", "credit": 3},
+        {"subject": "Human Values and Ethics", "code": " GE3791 ", "credit": 2},
+        {"subject": "Elective – Management", "code": "-", "credit": 3},
+        {"subject": "Open Elective – II*", "code": "-", "credit": 3},
+        {"subject": "Open Elective – III *", "code": "-", "credit": 3},
+        {"subject": "Open Elective – IV *", "code": "-", "credit": 3},
+        {"subject": "Professional Elective VII ", "code": "-", "credit": 3}
+        
+      ],
+      "8": [
+        {"subject": "Project Work / Internship", "code": " EE3811 ", "credit": 10}
+        
+      ]
+  },
+  "Mechanical": {
+       "1": [
+          {"subject": "Professional English 1", "code": "HS3152", "credit": 3},
+          {"subject": "Matrices and Calculus", "code": "MA3151", "credit": 4},
+          {"subject": "Engineering Physics", "code": "PH3151", "credit": 3},
+          {"subject": "Engineering Chemistry", "code": "CY3151", "credit": 3},
+          {"subject": "Problem Solving and Python Programming", "code": "GE3151", "credit": 3},
+          {"subject": "Heritage of Tamils", "code": "GE3152", "credit": 1},
+          {"subject": "Problem Solving and Python Programming Laboratory", "code": "GE3171", "credit": 2},
+          {"subject": "Physics and Chemistry Laboratory", "code": "BS3171", "credit": 2},
+          {"subject": "English laboratory", "code": "GE3172", "credit": 1}
+      ],
+      "2": [
+        {"subject": "Professional English - II ", "code": "HS3252", "credit": 2},
+        {"subject": "Statistics and Numerical Methods", "code": "MA3251 ", "credit": 4},
+        {"subject": "Materials Science ", "code": "PH3251 ", "credit": 3},
+        {"subject": "Basic Electrical and Electronics Engineering ", "code": "BE3251 ", "credit": 3},
+        {"subject": "Engineering Graphics ", "code": "GE3251 ", "credit": 4},
+
+        {"subject": "தமிழரும் ததொழில்நுட்பமும்/ Tamils and Technology", "code": "GE3252 ", "credit": 1},
+        {"subject": "Engineering Practices Laboratory ", "code": "GE3271", "credit": 2},
+        {"subject": "Basic Electrical and Electronics Engineering Laboratory", "code": "BE3271 ", "credit": 2},
+        {"subject": "Communication Laboratory /Foreign Language $", "code": ". GE3272", "credit": 2}
+        
+      ],
+      "3": [
+        {"subject": "Transforms and Partial Differential Equations", "code": "MA3351 ", "credit": 4},
+        {"subject": "Engineering Mechanics ", "code": "ME3351 ", "credit": 3},
+        {"subject": "Engineering Thermodynamics", "code": "ME3391 ", "credit": 3},
+        {"subject": "Fluid Mechanics and Machinery ", "code": "CE3391 ", "credit": 4},
+        {"subject": "Engineering Materials and Metallurgy ", "code": "ME3392", "credit": 3},
+        {"subject": "Manufacturing Processes ", "code": "ME3393", "credit": 3},
+        {"subject": "Computer Aided Machine Drawing ", "code": "ME3381", "credit": 2},
+        {"subject": "Manufacturing Technology Laboratory", "code": "ME3382", "credit": 2},
+        {"subject": "Professional Development$", "code": "GE3361 ", "credit": 1}
+        
+      ],
+      "4": [
+        {"subject": "Theory of Machines", "code": "ME3491", "credit": 3},
+        {"subject": "Thermal Engineering", "code": "ME3451", "credit": 4},
+        {"subject": "Hydraulics and Pneumatics", "code": "ME3492", "credit": 3},
+        {"subject": "Manufacturing Technology ", "code": "ME3493 ", "credit": 3},
+        {"subject": "Strength of Materials ", "code": "CE3491", "credit": 3},
+        {"subject": "Environmental Sciences and Sustainability", "code": "GE3451 ", "credit": 2},
+        {"subject": "Strength of Materials and Fluid Machinery Laboratory", "code": "CE3481", "credit": 2},
+        {"subject": "Thermal Engineering Laboratory", "code": "ME3461", "credit": 2}
+      
+      ],
+      "5": [
+        {"subject": "Design of Machine Elements", "code": "ME3591 ", "credit": 4},
+        {"subject": "Metrology and Measurements", "code": "ME3592 ", "credit": 3},
+        {"subject": "Professional Elective I", "code": "", "credit": 3},
+        {"subject": "Professional Elective II", "code": "", "credit": 3},
+        {"subject": "Professional Elective III", "code": "", "credit": 3},
+        {"subject": "Mandatory Course-I", "code": "", "credit": 0},
+        {"subject": "Summer Internship", "code": "ME3511", "credit": 1},
+        {"subject": "Metrology and Dynamics Laboratory", "code": "ME3581", "credit": 2}
+       
+      ],
+      "6": [
+        {"subject": "Heat and Mass Transfer", "code": "ME3691", "credit": 4},
+        {"subject": "Professional Elective IV ", "code": "", "credit": 3},
+        {"subject": "Professional Elective V ", "code": "", "credit": 3},
+        {"subject": "Professional Elective VI ", "code": "", "credit": 3},
+        {"subject": "Professional Elective VII ", "code": "", "credit": 3},
+        {"subject": "Open Elective – I*", "code": "", "credit": 3},
+        {"subject": "Mandatory Course-I", "code": "", "credit": 0},
+        {"subject": "CAD/CAM Laboratory", "code": "ME3681 ", "credit": 2},
+        {"subject": "Heat Transfer Laboratory ", "code": "ME3682 ", "credit": 2}
+        
+      ],
+      "7": [
+        {"subject": "Mechatronics and IoT", "code": "ME3791 ", "credit": 3},
+        {"subject": "Computer Integrated Manufacturing", "code": "ME3792", "credit": 3},
+        {"subject": "Human Values and Ethics ", "code": "GE3791 ", "credit": 2},
+        {"subject": "Industrial Management", "code": "GE3792", "credit": 3},
+        {"subject": "Open Elective – II", "code": "", "credit": 3},
+        {"subject": "Open Elective – III*", "code": "", "credit": 3},
+        {"subject": "Open Elective – IV", "code": "", "credit": 3},
+        {"subject": "Mechatronics and IoT Laboratory", "code": "ME3781 ", "credit": 2},
+        {"subject": " Summer Internship#", "code": "ME3711", "credit": 1}
+        
+      ],
+      "8": [
+        {"subject": "Project Work / Internship", "code": "ME3811 ", "credit": 10}
+        
+      ]
+  }
+}

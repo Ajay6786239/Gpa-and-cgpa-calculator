@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GPA Calculator</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+            color: white;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+        }
+
+        label {
+            font-size: 1.2rem;
+            margin: 10px 0;
+            display: block;
+        }
+
+        select {
+            padding: 10px;
+            font-size: 1rem;
+            margin: 10px 0;
+            border-radius: 5px;
+            border: none;
+            background-color: #fff;
+            color: #333;
+            width: 200px;
+            transition: border-color 0.3s;
+        }
+
+        select:focus {
+            outline: none;
+            border: 2px solid #f0f0f0;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 1rem;
+            background-color: #ff6f61;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.3s, transform 0.2s;
+            margin: 20px;
+        }
+
+        button:hover {
+            background-color: #ff4f3b;
+            transform: scale(1.05);
+        }
+
+        button:active {
+            transform: scale(0.95);
+        }
+
+        #subjectsContainer {
+            margin: 20px 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        #result {
+            margin-top: 20px;
+            font-size: 1.5rem;
+            color: #ffcc00;
+        }
+    </style>
+</head>
+<body>
+    <h1>GPA Calculator</h1>
+    
+    <label for="department">Select Department:</label>
+    <select id="department">
+        <option value="Mechanical">Mechanical</option>
+        <option value="Civil">Civil</option>
+        <option value="ECE">ECE</option>
+        <option value="EEE">EEE</option>
+        <option value="CSE">CSE</option>
+    </select>
+    
+    <label for="semester">Select Semester:</label>
+    <select id="semester">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+    </select>
+
+    <button id="fetchSubjects">Fetch Subjects</button>
+    
+    <div id="subjectsContainer"></div>
+
+    <button id="calculateGPA">Calculate GPA</button>
+    <div id="result"></div>
+
+    <script src="js/Script1.js"></script>
+</body>
+</html>

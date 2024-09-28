@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+            color: white;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        h1 {
+            font-size: 3vw;
+            margin-bottom: 15px;
+            text-shadow: 2px 4px 5px rgba(0, 0, 0, 0.7);
+            letter-spacing: 1.5px;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            margin-top: 40px;
+            flex-wrap: wrap;
+        }
+
+        a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 1.5vw;
+            margin: 0 10px;
+            padding: 10px 20px;
+            border-radius: 50px;
+            background-color: rgba(255, 255, 255, 0.1);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+            transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+            min-width: 150px;
+        }
+
+        a:hover {
+            background-color: rgba(255, 255, 255, 0.3);
+            transform: translateY(-5px);
+            box-shadow: 0 15px 25px rgba(0, 0, 0, 0.3);
+        }
+
+        a:active {
+            transform: translateY(2px);
+        }
+
+        footer {
+            position: relative;
+            bottom: 10px;
+            width: 100%;
+            text-align: center;
+            font-size: 1rem;
+            color: rgba(255, 255, 255, 0.6);
+            margin-top: auto;
+        }
+
+        /* Media Queries for smaller screens */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 5vw;
+            }
+
+            a {
+                font-size: 4vw;
+                padding: 10px 15px;
+                margin: 10px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 6vw;
+            }
+
+            nav {
+                flex-direction: column;
+            }
+
+            a {
+                font-size: 5vw;
+                padding: 10px 20px;
+                margin: 10px 0;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to GPA and CGPA Calculator (Reg 2021)</h1>
+    <h1>Anna University</h1>
+
+    <nav>
+        <a href="gpa.html">GPA Calculator</a>
+        <a href="cgpa.html">CGPA Calculator</a>
+    </nav>
+
+    <footer>
+        <p>Designed by Ajay P - All rights reserved</p>
+    </footer>
+
+</body>
+</html>
