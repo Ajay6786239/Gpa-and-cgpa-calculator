@@ -44,6 +44,8 @@
         {"subject": "Introduction to Operating Systems", "code": "CS3451", "credit": 3},
         {"subject": "Environmental Sciences and Sustainability ", "code": "GE3451 ", "credit": 2},
         {"subject": "Operating Systems Laboratory ", "code": "CS3461", "credit": 1.5},
+        {"subject": "NM ", "code": "-", "credit": 2},
+
         {"subject": "Database Management Systems Laboratory", "code": "CS3481", "credit": 1.5}
         
       ],
@@ -54,6 +56,8 @@
         {"subject": "Distributed Computing ", "code": "CS3551", "credit": 3},
         {"subject": "Professional Elective I", "code": "-", "credit": 3},
         {"subject": "Professional Elective II ", "code": "-", "credit": 3},
+        {"subject": "NM ", "code": "-", "credit": 2},
+
         {"subject": "Mandatory Course-I ", "code": "-", "credit": 0}
        
       ],
@@ -65,6 +69,8 @@
         {"subject": "Professional Elective IV", "code": "-", "credit": 3},
         {"subject": "Professional Elective V", "code": "-", "credit": 3},
         {"subject": "Professional Elective VI", "code": "-", "credit": 3},
+        {"subject": "NM ", "code": "-", "credit": 2},
+
         {"subject": "Mandatory Course-II ", "code": "-", "credit": 0}
        
       ],
@@ -74,7 +80,10 @@
         {"subject": "Open Elective - II", "code": "-", "credit": 3},
         {"subject": "Open Elective – III", "code": "-", "credit": 3},
         {"subject": "Open Elective – IV", "code": "-", "credit": 3},
+        {"subject": "NM ", "code": "-", "credit": 2},
+
         {"subject": "Summer internship", "code": "CS3711", "credit": 2}
+        
 
         
       ],
@@ -125,6 +134,8 @@
         {"subject": "Concrete Technology", "code": "CE3403 ", "credit": 3},
         {"subject": "Soil Mechanics ", "code": "CE3404", "credit": 3},
         {"subject": "Highway and Railway Engineering ", "code": "CE3405 ", "credit": 3},
+        {"subject": "NM ", "code": "-", "credit": 2},
+
         {"subject": "Environmental Sciences and Sustainability", "code": "GE3451", "credit": 2},
         {"subject": "Hydraulic Engineering Laboratory", "code": "CE3411 ", "credit": 1.5},
         {"subject": "Materials Testing Laboratory", "code": "CE3412 ", "credit": 2},
@@ -138,6 +149,8 @@
         {"subject": "Professional Elective I ", "code": "-", "credit": 3},
         {"subject": "Professional Elective II ", "code": "-", "credit": 3},
         {"subject": "Professional Elective III ", "code": "-", "credit": 3},
+        {"subject": "NM ", "code": "-", "credit": 2},
+
         {"subject": "Mandatory Course-I", "code": "-", "credit": 0},
         {"subject": "Highway Engineering Laboratory", "code": "CE3511 ", "credit": 2},
         {"subject": "Survey Camp (2 weeks)", "code": "CE3512 ", "credit": 1}
@@ -150,6 +163,8 @@
         {"subject": "Professional Elective IV ", "code": "-", "credit": 3},
         {"subject": "Professional Elective V ", "code": "-", "credit": 3},
         {"subject": "Professional Elective VI", "code": "-", "credit": 3},
+        {"subject": "NM ", "code": "-", "credit": 2},
+
         {"subject": "Open Elective – I*", "code": "-", "credit": 3},
         {"subject": "Mandatory Course-II", "code": "-", "credit": 0},
         {"subject": "Building Drawing and Detailing Laboratory ", "code": "CE3611", "credit": 2}
@@ -160,6 +175,8 @@
         {"subject": "Hydrology and Water Resources Engineering", "code": "AI3404 ", "credit": 3},
         {"subject": "Human Values and Ethics ", "code": "GE3791 ", "credit": 2},
         {"subject": "Total Quality Management ", "code": "GE3752 ", "credit": 3},
+        {"subject": "NM ", "code": "-", "credit": 2},
+
         {"subject": "Open Elective – II", "code": "-", "credit": 3},
         {"subject": "Open Elective – III", "code": "-", "credit": 3},
         {"subject": "Open Elective – IV", "code": "-", "credit": 3}
@@ -215,6 +232,8 @@
         {"subject": "Digital Signal Processing ", "code": "EC3492", "credit": 4},
         {"subject": "Communication Systems ", "code": "EC3491", "credit": 3},
         {"subject": "Environmental Sciences and Sustainability ", "code": "GE3451", "credit": 2},
+        {"subject": "NM ", "code": "-", "credit": 2},
+
         {"subject": "Communication Systems Laboratory", "code": "EC3461", "credit": 1.5},
         {"subject": "Linear Integrated Circuits Laboratory", "code": "EC3462", "credit": 1.5}
         
@@ -225,7 +244,9 @@
         {"subject": "Transmission lines and RF Systems", "code": "EC3551", "credit": 3},
         {"subject": "Professional Elective I", "code": "-", "credit": 3},
         {"subject": "Professional Elective II", "code": "-", "credit": 3},
-        {"subject": "Professional Elective III", "code": "-", "credit": 3},
+        {"subject": "Professional Elective III", "code": "-", "credit": 3},  
+        {"subject": "NM ", "code": "-", "credit": 2},
+
         {"subject": "Mandatory Course-I", "code": "-", "credit": 0},
         {"subject": "VLSI Laboratory", "code": "EC3561", "credit": 2}
        
@@ -237,6 +258,8 @@
         {"subject": "Professional Elective IV ", "code": "-", "credit": 3},
         {"subject": "Professional Elective V ", "code": "", "credit": 3},
         {"subject": "Professional Elective VI", "code": "", "credit": 3},
+        {"subject": "NM ", "code": "-", "credit": 2},
+
         {"subject": "Mandatory Course-II &", "code": "", "credit": 0}
         
       ],
@@ -246,6 +269,8 @@
         {"subject": "Open Elective – II", "code": "-", "credit": 3},
         {"subject": "Open Elective – III", "code": "-", "credit": 3},
         {"subject": "Open Elective – IV", "code": "-", "credit": 3},
+        {"subject": "NM ", "code": "-", "credit": 2},
+
         {"subject": "Summer internship", "code": "EC3711 ", "credit": 2}
         
       ],
@@ -301,7 +326,9 @@
         {"subject": "Electrical Machines - II ", "code": "EE3405 ", "credit": 3},
         {"subject": "Electrical Machines Laboratory - II ", "code": "EE3411 ", "credit": 1.5},
         {"subject": "Linear and Digital Circuits Laboratory", "code": "EE3412", "credit": 1.5},
-        {"subject": "Microprocessor and Microcontroller laboratory", "code": "EE3413", "credit": 1.5}
+        {"subject": "Microprocessor and Microcontroller laboratory", "code": "EE3413", "credit": 1.5},
+        {"subject": "NM-Robotic Process Automation Development", "code": "SB8026", "credit":2}
+
 
        
       ],
@@ -313,6 +340,10 @@
         {"subject": "Professional Elective II ", "code": "--", "credit": 3},
         {"subject": "Professional Elective III ", "code": "", "credit": 3},
         {"subject": "Mandatory Course-I", "code": "-", "credit": 0},
+        
+        {"subject": "Solar ", "code": "EVA001", "credit": 0},
+
+
         {"subject": "Power Electronics Laboratory", "code": "EE3511 ", "credit": 1.5},
         {"subject": "Control and Instrumentation Laboratory ", "code": "EE3512", "credit": 2}
         
@@ -323,7 +354,7 @@
         {"subject": "Open Elective – I*", "code": "-", "credit": 3},
         {"subject": "Professional Elective IV ", "code": "-", "credit": 3},
         {"subject": "Professional Elective V", "code": "-", "credit": 3},
-        {"subject": "Professional Elective VI", "code": "-", "credit": 3},
+        {"subject": "NM-Drone", "code": "SB8065", "credit": 2},
         {"subject": "Mandatory Course-II&", "code": "-", "credit": 0},
         {"subject": " Power System Laboratory ", "code": "EE3611 ", "credit": 1.5}
         
@@ -335,11 +366,13 @@
         {"subject": "Open Elective – II*", "code": "-", "credit": 3},
         {"subject": "Open Elective – III *", "code": "-", "credit": 3},
         {"subject": "Open Elective – IV *", "code": "-", "credit": 3},
+        {"subject": "NM ", "code": "-", "credit": 2},
+
         {"subject": "Professional Elective VII ", "code": "-", "credit": 3}
         
       ],
       "8": [
-        {"subject": "Project Work / Internship", "code": " EE3811 ", "credit": 10}
+        {"subject": "Project Work / Internship", "code": "EE3811", "credit": 10}
         
       ]
   },
@@ -386,6 +419,8 @@
         {"subject": "Hydraulics and Pneumatics", "code": "ME3492", "credit": 3},
         {"subject": "Manufacturing Technology ", "code": "ME3493 ", "credit": 3},
         {"subject": "Strength of Materials ", "code": "CE3491", "credit": 3},
+        {"subject": "NM ", "code": "-", "credit": 2},
+
         {"subject": "Environmental Sciences and Sustainability", "code": "GE3451 ", "credit": 2},
         {"subject": "Strength of Materials and Fluid Machinery Laboratory", "code": "CE3481", "credit": 2},
         {"subject": "Thermal Engineering Laboratory", "code": "ME3461", "credit": 2}
@@ -398,6 +433,8 @@
         {"subject": "Professional Elective II", "code": "", "credit": 3},
         {"subject": "Professional Elective III", "code": "", "credit": 3},
         {"subject": "Mandatory Course-I", "code": "", "credit": 0},
+        {"subject": "NM ", "code": "-", "credit": 2},
+
         {"subject": "Summer Internship", "code": "ME3511", "credit": 1},
         {"subject": "Metrology and Dynamics Laboratory", "code": "ME3581", "credit": 2}
        
@@ -410,6 +447,8 @@
         {"subject": "Professional Elective VII ", "code": "", "credit": 3},
         {"subject": "Open Elective – I*", "code": "", "credit": 3},
         {"subject": "Mandatory Course-I", "code": "", "credit": 0},
+        {"subject": "NM ", "code": "-", "credit": 2},
+
         {"subject": "CAD/CAM Laboratory", "code": "ME3681 ", "credit": 2},
         {"subject": "Heat Transfer Laboratory ", "code": "ME3682 ", "credit": 2}
         
@@ -422,6 +461,8 @@
         {"subject": "Open Elective – II", "code": "", "credit": 3},
         {"subject": "Open Elective – III*", "code": "", "credit": 3},
         {"subject": "Open Elective – IV", "code": "", "credit": 3},
+        {"subject": "NM ", "code": "-", "credit": 2},
+
         {"subject": "Mechatronics and IoT Laboratory", "code": "ME3781 ", "credit": 2},
         {"subject": " Summer Internship#", "code": "ME3711", "credit": 1}
         

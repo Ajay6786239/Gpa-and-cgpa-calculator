@@ -19,13 +19,14 @@ function fetchSubjects() {
                         <p>${subject.subject} (${subject.code}) - Credits: ${credit}</p>
                         <label for="${subject.code}-grade">Grade:</label>
                         <select id="${subject.code}-grade" data-credit="${credit}">
+                            <option value="none">None</option>
                             <option value="10">O</option>
                             <option value="9">A+</option>
                             <option value="8">A</option>
                             <option value="7">B+</option>
                             <option value="6">B</option>
                             <option value="5">C</option>
-                            <option value="0">F</option>
+                            <option value="0">U</option>
                         </select>
                     `;
                     subjectsContainer.appendChild(subjectDiv);
@@ -37,23 +38,20 @@ function fetchSubjects() {
 }
 
 function calculateGPA() {
-    const grades = Array.from(document.querySelectorAll('select[id$="-grade"]')).map(select => parseFloat(select.value));
-    const credits = Array.from(document.querySelectorAll('select[id$="-grade"]')).map(select => parseInt(select.getAttribute('data-credit')));
-
-    // Check for invalid grades
-    if (grades.some(grade => grade > 10)) {
-        alert('GPA should be less than or equal to 10');
-        return;
-    }
-
-    // Calculate total points and total credits
+    const gradeElements = Array.from(document.querySelectorAll('select[id$="-grade"]'));
     let totalPoints = 0;
     let totalCredits = 0;
 
-    for (let i = 0; i < grades.length; i++) {
-        totalPoints += grades[i] * credits[i]; // Multiply grade by credit for each subject
-        totalCredits += credits[i]; // Sum up all credits
-    }
+    gradeElements.forEach(select => {
+        const grade = select.value;
+        const credit = parseInt(select.getAttribute('data-credit'));
+
+        // Only calculate if a grade other than "None" is selected
+        if (grade !== 'none') {
+            totalPoints += parseFloat(grade) * credit; // Multiply grade by credit for each subject
+            totalCredits += credit; // Sum up all credits
+        }
+    });
 
     // Calculate GPA based on total points and total credits
     const gpa = totalCredits ? (totalPoints / totalCredits) : 0;
