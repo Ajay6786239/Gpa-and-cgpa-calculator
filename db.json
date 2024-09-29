@@ -56,7 +56,7 @@
         {"subject": "Distributed Computing ", "code": "CS3551", "credit": 3},
         {"subject": "Professional Elective I", "code": "-", "credit": 3},
         {"subject": "Professional Elective II ", "code": "-", "credit": 3},
-        {"subject": "NM ", "code": "-", "credit": 2},
+      
 
         {"subject": "Mandatory Course-I ", "code": "-", "credit": 0}
        
@@ -149,7 +149,6 @@
         {"subject": "Professional Elective I ", "code": "-", "credit": 3},
         {"subject": "Professional Elective II ", "code": "-", "credit": 3},
         {"subject": "Professional Elective III ", "code": "-", "credit": 3},
-        {"subject": "NM ", "code": "-", "credit": 2},
 
         {"subject": "Mandatory Course-I", "code": "-", "credit": 0},
         {"subject": "Highway Engineering Laboratory", "code": "CE3511 ", "credit": 2},
@@ -245,7 +244,6 @@
         {"subject": "Professional Elective I", "code": "-", "credit": 3},
         {"subject": "Professional Elective II", "code": "-", "credit": 3},
         {"subject": "Professional Elective III", "code": "-", "credit": 3},  
-        {"subject": "NM ", "code": "-", "credit": 2},
 
         {"subject": "Mandatory Course-I", "code": "-", "credit": 0},
         {"subject": "VLSI Laboratory", "code": "EC3561", "credit": 2}
@@ -433,7 +431,6 @@
         {"subject": "Professional Elective II", "code": "", "credit": 3},
         {"subject": "Professional Elective III", "code": "", "credit": 3},
         {"subject": "Mandatory Course-I", "code": "", "credit": 0},
-        {"subject": "NM ", "code": "-", "credit": 2},
 
         {"subject": "Summer Internship", "code": "ME3511", "credit": 1},
         {"subject": "Metrology and Dynamics Laboratory", "code": "ME3581", "credit": 2}
